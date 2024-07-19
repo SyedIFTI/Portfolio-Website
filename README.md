@@ -1,4 +1,1 @@
-Hi there! It is a Portfolio Webiste created by using MRN stack,Tailwind Css and FramerMotion
-->Working Contact form
-->Completely Responsive 
-The picture used in it is not mine because of the privacy reasons but the portfolio is authentic
+Hi there! It is a Portfolio Website created by using MRN stack, Tailwind CSS and FramerMotion. ->Working Contact form. ->Completely Responsive.->The Pictures used in it are not mine because of  privacy reasons but the portfolio section and the reviews are authentic
